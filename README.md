@@ -10,7 +10,7 @@
 
 <p align="center">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/pedro-emanuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin Pedro Emanuel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-emanuel-de-avelar-sousa-de-almeida-10a337160/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin Pedro Emanuel" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pwp_avelar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram Pedro Emanuel" height="30" width="40" /></a>
 </p>
 
