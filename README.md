@@ -17,14 +17,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
      <a>
-          <img align="center" src="https://icongr.am/devicon/c-original.svg?size=62&color=currentColor" alt="C" width="40" heigth="40"/>
           <img align="center" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt"CSS3" width="40" heigth="40"/>
           <img align="center" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt"HTML5" width="40" heigth="40"/>
           <img align="center" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt"JavaScript" width="40" heigth="40"/>
           <img align="center" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" heigth="40"/>
-          <img align="center" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" alt="postgresql" width="40" heigth="40"/>
-          <img align="center" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor" alt="rails" width="40" heigth="40"/></br></br>
-          <img src="https://icongr.am/devicon/ruby-original-wordmark.svg?size=128&color=currentColor" style="margin-top: -30px;"alt="ruby" width="40" heigth="40"/>
+          <img align="center" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" alt="postgresql" width="40" heigth="40"/></br></br>
           <img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" alt="Saas" width="40" heigth="40"/>
           <img src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?size=128&color=currentColor" alt="WordPress" width="40" heigth="40"/>
           <img src="https://icongr.am/devicon/less-plain-wordmark.svg?size=128&color=currentColor" alt="less" width="40" heigth="40"/>
