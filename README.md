@@ -14,6 +14,8 @@
 <a href="https://www.instagram.com/pwp_avelar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram Pedro Emanuel" height="30" width="40" /></a>
 </p>
 
+[![Pedro's WordPress Activity](https://www.cardpress.us/card?username=pedroasa&badges=true)](https://www.cardpress.us/)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
      <a>
